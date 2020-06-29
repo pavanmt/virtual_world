@@ -2,7 +2,7 @@
 
 Virtual World is a new way of experiencing the tour of places virtually. During this pandemic life has not been the same as it used to be earlier. Everyone might have been tired of the lockdown and definitely looking forward to experiencing the scenery and ambience of all their favourite places. However we wanted to be a responsible citizen and follow the social distancing norms, but how could we rejoice in nature? Well we have a solution for it. 
 
-With this app Virtual World one can experience the ambience virtually and get all the info on their smartphone without having to travel physically.  This is a great experience everyone definitely wanted to explore.  All the missing birds sounds, nature mode can be experienced through this app. Are you ready to explore the virtual world, then do check out this app! Virtual World.
+With this app Virtual World one can experience the ambience virtually and get all the info on their smartphone without having to travel physically. Get to know the place better and prior. This is a great experience everyone definitely wanted to explore. All the missing birds sounds, nature mode can be experienced through this app. Are you ready to explore the virtual world, then do check out this app! Virtual World.
 
 
 ## Screen Shots
@@ -15,7 +15,7 @@ Home and Virtuality Screen
 
 ## Demo
 Here is the youtube video link for the demo of the app explaining all the features.
-- [Video](https://t.co/Efzz9LxioP)
+- [Video](https://www.youtube.com/watch?v=qpHrlhh_lTQ)
 
 ## Running the App.
 * Ensure emulator is running. Navigate to the project root folder and run below command
