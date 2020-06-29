@@ -13,12 +13,6 @@ OnBoarding Screen
 Home and Virtuality Screen
 ![Home & Virtuality Screen](https://github.com/pavanmt/virtual_world/blob/master/screenshot/vp.jpg "Home & Virtuality Screen")
 
-Home Screen
-![Home Screen](https://github.com/pavanmt/virtual_world/blob/master/screenshot/home.png "Home & Virtuality Screen")
-
-Virtuality Screen
-![Virtuality Screen](https://github.com/pavanmt/virtual_world/blob/master/screenshot/detail.png "Home & Virtuality Screen")
-
 ## Demo
 Here is the youtube video link for the demo of the app explaining all the features.
 - [Video](https://t.co/Efzz9LxioP)
