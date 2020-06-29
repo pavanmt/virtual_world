@@ -4,6 +4,16 @@ Virtual World is a new way of experiencing the tour of places virtually. During 
 
 With this app Virtual World one can experience the ambience virtually and get all the info on their smartphone without having to travel physically. Get to know the place better and prior. This is a great experience everyone definitely wanted to explore. All the missing birds sounds, nature mode can be experienced through this app. Are you ready to explore the virtual world, then do check out this app! Virtual World.
 
+Eventually when you open the app and visit popular temples we get the bell sound recreating the ambience as if your are in the place and exploring. Do checkout the app.
+
+
+## Technology
+
+We tried to keep the app simple. We used audio player to create the background and flutter_swiper to show off the scrolling effect of images.
+
+## Future Plans
+
+We definitely don't  stop here and have thought of creating bunch of features like adding live tour videos, panorama photo viewer, interact lively with your friends and plant the destination. definitely we have a lot of things in store.
 
 ## Screen Shots
 
